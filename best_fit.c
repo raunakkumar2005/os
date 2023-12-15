@@ -21,7 +21,7 @@ int main()
                 if (bestIdx == -1)
                 {
                     bestIdx = j;
-                }
+                                }
                 else if (blockSize[bestIdx] > blockSize[j])
                 {
                     bestIdx = j;
